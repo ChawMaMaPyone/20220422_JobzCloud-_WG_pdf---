@@ -23,6 +23,7 @@ namespace jobzcolud.WebFront
 {
     public partial class JC10MitsumoriTouroku : System.Web.UI.Page
     {
+        //TEst Test
         MySqlConnection con = null;
         string sTOKUISAKIYUBIN = "";
         string sTOKUISAKIJUSYO = "";
